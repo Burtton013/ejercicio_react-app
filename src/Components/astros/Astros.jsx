@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import Progress from './Progress.jsx';
+import Progress from '../navbar/Progress.jsx';
 import './Astros.css'
 
 
